@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": ".4to",
+    "slug": "4to",
+    "version": "0.1.0",
+    "scheme": "4to",
+    "userInterfaceStyle": "dark",
+    "orientation": "portrait",
+    "splash": {"backgroundColor": "#0B0B0B"},
+    "android": {"adaptiveIcon": {"backgroundColor": "#0B0B0B"}},
+    "ios": {"supportsTablet": true}
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "dot-4to",
+  "private": true,
+  "workspaces": ["apps/mobile"],
+  "scripts": {
+    "mobile": "npm run start --workspace apps/mobile",
+    "typecheck": "npm run typecheck --workspace apps/mobile"
+  }
+}
